@@ -2,8 +2,8 @@
 
 ## requirements
 
-Install [python - 3.6.1](https://www.python.org/downloads/)
-Install [pip](https://pip.pypa.io/en/stable/)
+* Install [python - 3.6.1](https://www.python.org/downloads/)
+* Install [pip](https://pip.pypa.io/en/stable/)
 
 ## running program
 
