@@ -10,6 +10,7 @@
 You can use the following command on a bash shell to get the program running.
 
 ```bash
+pip install -r requirements.txt 
 FLASK_APP=api.py flask run
 ```
 
