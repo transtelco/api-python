@@ -1,5 +1,7 @@
 # api-python
 
+This is a program written in python. It is an simple API it intially registers itself with consul, and afterward it just responds to calls.
+
 ## requirements
 
 * Install [python - 3.6.1](https://www.python.org/downloads/)
