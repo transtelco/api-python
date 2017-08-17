@@ -12,6 +12,9 @@ This is a program written in python. It is an simple API it intially registers i
 You can use the following command on a bash shell to get the program running.
 
 ```bash
+# start the application must have consul running
+export CONSUL_PORT=locahost
+export CONSUL_HOST=8500
 pip install -r requirements.txt 
 FLASK_APP=api.py flask run
 ```
